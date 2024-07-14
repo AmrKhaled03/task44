@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AmrKhaled03/task44.git/static/css/main.fb0fb683.css",
+    "main.js": "/AmrKhaled03/task44.git/static/js/main.9594559a.js",
+    "static/js/453.6097658f.chunk.js": "/AmrKhaled03/task44.git/static/js/453.6097658f.chunk.js",
+    "static/media/steak.jpeg": "/AmrKhaled03/task44.git/static/media/steak.1ee296b38a0630617946.jpeg",
+    "static/media/egg.jpeg": "/AmrKhaled03/task44.git/static/media/egg.dca56a6ca1dbf9103ad7.jpeg",
+    "static/media/chicken.jpeg": "/AmrKhaled03/task44.git/static/media/chicken.e13de176c5d233ca5f8a.jpeg",
+    "static/media/yogurt.jpeg": "/AmrKhaled03/task44.git/static/media/yogurt.a26a083944b48ccb7daf.jpeg",
+    "index.html": "/AmrKhaled03/task44.git/index.html",
+    "main.fb0fb683.css.map": "/AmrKhaled03/task44.git/static/css/main.fb0fb683.css.map",
+    "main.9594559a.js.map": "/AmrKhaled03/task44.git/static/js/main.9594559a.js.map",
+    "453.6097658f.chunk.js.map": "/AmrKhaled03/task44.git/static/js/453.6097658f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb0fb683.css",
+    "static/js/main.9594559a.js"
+  ]
+}
